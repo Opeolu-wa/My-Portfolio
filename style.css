@@ -369,7 +369,7 @@ img {
     flex-direction: column;
     padding: 10px;
     border-radius: 10px;
-    background-image: url(./media/6th\ Avenue\ lorem.jpg);
+    background-image: url(./media/6th.JPG);
     background-size: cover;
     margin: 10px 5%;
     position: relative;
@@ -976,8 +976,10 @@ img {
 /* service section */
     #services .service_buttom .service_item {
         flex-basis: 22%;
-        margin: 18px;
-        padding: 10px 15px;
+        margin: 40px;
+        padding: 20px;
+        height:100%;
+        width :100%;
     }
 
     #services .service_top {
